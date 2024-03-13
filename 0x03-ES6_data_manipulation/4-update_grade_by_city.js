@@ -20,4 +20,3 @@ export default function updateStudentGradeByCity(students, city, newGrades) {
     // return item2 ? {...student, ...item2} : student,  student.grade = 'M/A';
   });
   return cityStudents;
-
