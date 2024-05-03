@@ -1,4 +1,4 @@
-# Unitest in Javascript 
+# Unitest in Javascript 🚀💡🌟 
  In this project, Unit testing in JavaScript is a crucial part of the development process, ensuring that individual parts (units) of your application work as expected. It involves writing tests for each function or module to validate that they correctly perform their intended tasks under various conditions.
 Key Concepts of Unit Testing in JavaScript:
 
